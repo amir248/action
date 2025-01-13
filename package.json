@@ -3,15 +3,18 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "start",
     "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amir248/action.git"
   },
   "author": "Amir",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "ejs": "^3.1.10",
-    "express": "^4.21.1",
-    "path": "^0.12.7"
-  }
+  "bugs": {
+    "url": "https://github.com/amir248/action/issues"
+  },
+  "homepage": "https://github.com/amir248/action#readme",
+  "description": ""
 }
